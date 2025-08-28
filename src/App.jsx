@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <h1>Hi, Im from PC..Leave at the tone!</h1>
+      <h1> Hi , Im laptop here, copied that</h1>
     </>
   )
 }
